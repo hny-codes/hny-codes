@@ -1,4 +1,4 @@
-# <p align="center"><strong>Hello World!</strong></p>
+<p><img align="center" src="./assets/profile_banner.png"></p>
 
 ## About me:
 
