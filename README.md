@@ -1,8 +1,9 @@
-<p><img align="center" src="./assets/profile_banner.png"></p>
+<p><img align="center" src="./assets/profile_banner.png"></p><br>
 
-## About me:
+<h1 align="center">Hey there, It's Henry!</h1>
 
-I'm Henry, a software developer with an itch of tinkering with the world wide web.
+## More about me..
+A software developer with an itch of tinkering with the world wide web. 
 
 - Current learning objective on frontend technologies for building websites and applications.
 - Learning new technologies and languages
@@ -23,13 +24,15 @@ I'm Henry, a software developer with an itch of tinkering with the world wide we
 
 ---
 
-## Programming Languages & Tools:
+## Programming Languages:
 
 - HTML
 - CSS
 - JavaScript (ES6)
 - Python
 - Java
+
+## Programming Tools
 - React
 - Redux
 - Git
