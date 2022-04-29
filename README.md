@@ -5,9 +5,9 @@
 I'm Henry, a software developer with an itch of tinkering with the world wide web.
 
 - Current learning objective on frontend technologies for building websites and applications.
+- Learning new technologies and languages
+- Privacy advocate.
 - Free time? Reading/listening to tech-related content & playing video games.
-- Need to contact me? Don't hesitate!
-
 ---
 
 ## Here are a few things I am currently working on:
@@ -36,6 +36,4 @@ I'm Henry, a software developer with an itch of tinkering with the world wide we
 
 ---
 
-### Nothing beats the feeling of applying what you love into creating stunning applications for the web.
-
-Feel the same? Let's connect!
+### Need to contact me? Don't hesitate, let's connect! 
