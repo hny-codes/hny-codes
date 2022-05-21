@@ -3,12 +3,14 @@
 <h1 align="center">Hey there, It's Henry!</h1>
 
 ## More about me..
-A software developer with an itch of tinkering with the world wide web. 
+
+A software developer with an itch of tinkering with the world wide web.
 
 - Current learning objective on frontend technologies for building websites and applications.
 - Learning new technologies and languages
 - Privacy advocate.
 - Free time? Reading/listening to tech-related content & playing video games.
+
 ---
 
 ## Here are a few things I am currently working on:
@@ -26,17 +28,18 @@ A software developer with an itch of tinkering with the world wide web.
 
 ## Programming Languages:
 
-- HTML
-- CSS
-- JavaScript (ES6)
-- Python
-- Java
+- HTML <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=30px/>
+- CSS <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=30px/>
+- JavaScript (ES6) <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30px />
+- Python <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=30px/>
+- Java <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=30px />
 
 ## Programming Tools
+
 - React
 - Redux
 - Git
 
 ---
 
-### Need to contact me? Don't hesitate, let's connect! 
+### Need to contact me? Don't hesitate, let's connect!
