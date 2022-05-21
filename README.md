@@ -23,6 +23,8 @@ A software developer with an itch of tinkering with the world wide web.
 
 - freeCodeCamp's Front-end curriculum (React/Redux)
 - The Odin Project currirculum (HTML/CSS/JS)
+- React v18 
+- React Router v6
 
 ---
 
