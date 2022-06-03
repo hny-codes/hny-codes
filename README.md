@@ -23,7 +23,7 @@ A software developer with an itch of tinkering with the world wide web.
 
 - freeCodeCamp's Front-end curriculum (React/Redux)
 - The Odin Project currirculum (HTML/CSS/JS)
-- Javascript30 by [Wes bos](https://github.com/wesbos/JavaScript30)
+- Javascript30 by [Wes Bos](https://github.com/wesbos/JavaScript30)
 
 ---
 
