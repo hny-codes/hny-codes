@@ -27,7 +27,7 @@ A software developer with an itch of tinkering with the world wide web.
 ### Learning
 
 - React / NextJS
-- The Odin Project currirculum (HTML/CSS/JS)
+- The Odin Project curriculum (HTML/CSS/JS)
 
 ---
 
