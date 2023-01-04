@@ -1,6 +1,6 @@
 <p><img align="center" src="./assets/profile_banner.png"></p><br>
 
-<h1 align="center">💻 Hey there, It's Henry!</h1>
+<h1 align="center">💻 Hey there, Happy 2023!</h1>
 
 ## 💬 More about me.. 
 
@@ -17,13 +17,12 @@ A software developer with an itch of tinkering with the world wide web.
 
 ### Projects
 
-- Online Portfolio
+- None at the moment!
 
 ### Learning
 
-- freeCodeCamp's Front-end curriculum (React/Redux)
+- React / NextJS
 - The Odin Project currirculum (HTML/CSS/JS)
-- Javascript30 by [Wes Bos](https://github.com/wesbos/JavaScript30)
 
 ---
 
