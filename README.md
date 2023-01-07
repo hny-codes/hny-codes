@@ -4,10 +4,9 @@
 
 💬 A software developer with an itch of tinkering with the world wide web.
 
-- 🎓 Current learning objective on frontend technologies for building websites and applications.
-- 💡 Learning new technologies and languages
-- 🔒 Privacy advocate.
-- 🎮 Free time? Reading/listening to tech-related content & playing video games.
+- 🎓 Current learning objective on frontend technologies
+- 🔒 Privacy advocate
+- 🎮 Free time? Reading/listening to tech-related content & playing video games
 
 <div align="center">
     <img align="center" alt="code wars banner" src="https://www.codewars.com/users/hny-codes/badges/large">&emsp;
