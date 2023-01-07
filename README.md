@@ -32,7 +32,7 @@
 ---
 
 <div align="center">
-    <h2><b>Skills Acquired</b></h2><br>
+    <h2><b>Growing Toolbox</b></h2><br>
 </div>
 
 <div align="center">
