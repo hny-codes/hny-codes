@@ -16,14 +16,14 @@
 ---
 
 <div align="center">
-    <h2><b>Leveling Up On..</b></h2>
+    <h3><b>Leveling Up On..</b></h3>
 </div>
 
-## Projects
+### Projects
 
 - None at the moment!
 
-## Learning
+### Learning
 
 - React / NextJS
 - The Odin Project curriculum (HTML/CSS/JS)
