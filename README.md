@@ -38,6 +38,9 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,java,react,redux&perline=4" />
+    </a><br>
+    <a href="https://github.com/tandpfun">
+        <p><small>Icons by tandpfun, thank you!</small></p>
     </a>
 </div>
 
