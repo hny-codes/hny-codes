@@ -11,8 +11,8 @@ A software developer with an itch of tinkering with the world wide web.
 - 🔒 Privacy advocate.
 - 🎮 Free time? Reading/listening to tech-related content & playing video games.
 
-<div>
-    <img align="center" alt="code wars banner" src="https://www.codewars.com/users/hny-codes/badges/small">&emsp;
+<div align="center">
+    <img align="center" alt="code wars banner" src="https://www.codewars.com/users/hny-codes/badges/large">&emsp;
      <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/TenyouTachia.png" alt="TryHackMe"><br>
 </div>
 
