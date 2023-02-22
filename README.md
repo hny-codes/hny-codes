@@ -1,8 +1,6 @@
 <p><img align="center" src="./assets/profile_banner.png"></p><br>
 
-<h1 align="center">💻 <b>Hey there, Happy 2023!</b></h1>
-
-💬 A software developer with an itch of tinkering with the world wide web.
+<h1 align="center">💻 <b>Hey there!</b></h1>
 
 - 🎓 Current learning objective on frontend technologies
 - 🔒 Privacy advocate
@@ -19,14 +17,9 @@
     <h2><b>Leveling Up On..</b></h2>
 </div>
 
-## Projects
-
-- None at the moment!
-
-## Learning
-
-- React / NextJS
-- The Odin Project curriculum (HTML/CSS/JS)
+- The Odin Project curriculum (Full Stack JavaScript)
+- React
+- [Astro](https://astro.build/)
 
 ---
 
@@ -36,7 +29,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,java,react,redux&perline=4" />
+        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,java,react" />
     </a><br>
     <a href="https://github.com/tandpfun">
         <p><small>Icons by tandpfun, thank you!</small></p>
@@ -45,4 +38,4 @@
 
 ---
 
-<h3 align="center">💬 Need to contact me? Don't hesitate, let's connect! 👍</h3>
+<h3 align="center">💬 Let's connect! 👍</h3>
