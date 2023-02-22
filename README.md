@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-    <h2><b>Leveling Up On..</b></h2>
+    <h3><b>Leveling Up On..</b></h3>
 </div>
 
 - The Odin Project curriculum (Full Stack JavaScript)
