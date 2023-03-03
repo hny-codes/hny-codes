@@ -17,7 +17,7 @@
     <h3><b>Leveling Up On..</b></h3>
 </div>
 
-- The Odin Project curriculum (Full Stack JavaScript)
+- The Odin Project curriculum (Full Stack JavaScript) - Webpack
 - React
 - [Astro](https://astro.build/)
 
