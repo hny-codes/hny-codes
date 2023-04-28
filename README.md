@@ -19,7 +19,6 @@
 
 - The Odin Project curriculum (Full Stack JavaScript)
 - React
-- [Vite](https://vitejs.dev/)
 - [Astro](https://astro.build/)
 
 ---
