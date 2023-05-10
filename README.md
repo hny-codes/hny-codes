@@ -20,6 +20,7 @@
 - The Odin Project curriculum (Full Stack JavaScript)
 - React
 - [Astro](https://astro.build/)
+- Typescript
 
 ---
 
