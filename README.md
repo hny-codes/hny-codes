@@ -35,6 +35,6 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight)](https://github.com/hny-codes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight)]
 
 <h3 align="center">💬 Let's connect! 👍</h3>
