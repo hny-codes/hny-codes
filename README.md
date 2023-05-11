@@ -25,18 +25,16 @@
 ---
 
 <div align="center">
-    <h2><b>Growing Toolbox</b></h2><br>
+    <h3><b>Growing Toolbox</b></h3><br>
 </div>
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,java,react" />
+        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,java,react,ts" />
     </a><br>
-    <a href="https://github.com/tandpfun">
-        <p><small>Icons by tandpfun, thank you!</small></p>
-    </a>
 </div>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight)](https://github.com/hny-codes/github-readme-stats)
 
 <h3 align="center">💬 Let's connect! 👍</h3>
