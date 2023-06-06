@@ -2,7 +2,7 @@
 
 <h1 align="center">💻 <b>Hey there!</b></h1>
 
-- 🎓 Current learning objective on frontend technologies
+- 🎓 Front-end development
 - 🔒 Privacy advocate
 - 🎮 Free time? Reading/listening to tech-related content & playing video games
 
@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,java,react,ts,vite" />
+        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro" />
     </a><br>
 </div>
 
