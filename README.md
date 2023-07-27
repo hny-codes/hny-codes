@@ -25,7 +25,6 @@
 
 - React (Next)
 - [Astro](https://astro.build/)
-- Tailwind
 - Typescript
 
 ---
