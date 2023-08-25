@@ -26,6 +26,7 @@
 - React (Next)
 - [Astro](https://astro.build/)
 - Typescript
+- [Cypress](https://www.cypress.io/)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight)
