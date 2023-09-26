@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind" />
+        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs" />
     </a><br>
 </div>
 
