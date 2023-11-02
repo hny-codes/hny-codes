@@ -1,34 +1,28 @@
-<p><img align="center" src="./assets/profile_banner.png"></p><br>
+<p><img align="center" src="./assets/profile_banner.png" alt="GitHub Profile Banner"></p><br>
 
-<h1 align="center">💻 <b>Hey there!</b></h1>
+## 🎓 **About Me**
 
-- 🎓 Front-end development
-- 🔒 Privacy advocate
-- 🎮 Free time? Reading/listening to tech-related content & playing video games
+- Front-end development - **React** is my forte
+- Privacy advocate - Let's protect ourselves online
+- Free time? Internet surfing and finding my next JRPG adventure ⚔
 
-<div align="center">
-    <img align="center" alt="code wars banner" src="https://www.codewars.com/users/hny-codes/badges/large">&emsp;
-     <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/TenyouTachia.png" alt="TryHackMe"><br><br>
-</div>
+[![List of current skills](https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs)](https://skillicons.dev)
 
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img alt="programming languages" src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs" />
-    </a><br>
-</div>
+### 🕸 **My Websites**
 
----
+Take a look at my personal sites!
 
-<div align="center">
-    <h3><b>Leveling Up On</b></h3>
-</div>
+- [My Portfolio](https://www.hny-codes.com/)
+- [My Blog](https://hny-blogs.vercel.app/)
 
-- React (Next)
+## 🕹 **Leveling Up On These Skills**
+
+- Next.js 14
 - [Astro](https://astro.build/)
 - Typescript
 - [Cypress](https://www.cypress.io/)
+- a11y
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight" alt="Chart of most used languages"></div>
 
-<h3 align="center">💬 Let's connect! 👍</h3>
+<h2 align="center"><strong>Let's connect!</strong> 💬</h2>
