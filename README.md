@@ -1,12 +1,12 @@
 <p><img align="center" src="./assets/profile_banner.png" alt="GitHub Profile Banner"></p><br>
 
+<div align="center"><img src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs" alt=""></div>
+
 ## 🎓 **About Me**
 
 - Front-end development - **React** is my forte
 - Privacy advocate - Let's protect ourselves online
 - Free time? Internet surfing and finding my next JRPG adventure ⚔
-
-[![List of current skills](https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs)](https://skillicons.dev)
 
 ### 🕸 **My Websites**
 
