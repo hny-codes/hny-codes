@@ -13,7 +13,7 @@
 Take a look at my personal sites!
 
 - [My Portfolio](https://www.hny-codes.com/)
-- [My Blog](https://hny-blogs.vercel.app/) - Currently upgrading/revamping my blog!
+- [My Blog](https://hny-blogs.vercel.app/)
 
 ## 🕹 **Leveling Up On These Skills**
 
