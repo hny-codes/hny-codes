@@ -1,4 +1,4 @@
-<p><img align="center" src="./assets/profile_banner.png" alt="GitHub Profile Banner"></p><br>
+<img align="center" src="./assets/profile_banner.png" alt="GitHub Profile Banner"><br>
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs" alt=""></div>
 
@@ -7,6 +7,7 @@
 - Front-end development - **React** is my forte
 - Privacy advocate - Let's protect ourselves online
 - Free time? Internet surfing and finding my next JRPG adventure ⚔
+- **Happy New Year - 2024!** 🎉
 
 ### 🕸 **My Websites**
 
