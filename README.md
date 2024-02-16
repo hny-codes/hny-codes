@@ -7,7 +7,6 @@
 - Front-end development - **React** is my forte
 - Privacy advocate - Let's protect ourselves online
 - Free time? Internet surfing and finding my next JRPG adventure ⚔
-- **Happy New Year - 2024!** 🎉
 
 ### 🕸 **My Websites**
 
