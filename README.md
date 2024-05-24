@@ -2,10 +2,12 @@
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs" alt=""></div>
 
+_📷 Profile picture and art by Yui! - [Website](https://yuikumaa.bigcartel.com/) | [Twitter](https://twitter.com/yuikumaa__)_
+
 ## 🎓 **About Me**
 
 - Front-end development - **React** is my forte
-- Privacy advocate - Let's protect ourselves online
+- Privacy advocate
 - Free time? Internet surfing and finding my next JRPG adventure ⚔
 
 ### 🕸 **My Websites**
@@ -23,4 +25,4 @@ Take a look at my personal sites!
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight" alt="Chart of most used languages"></div>
 
-<h2 align="center"><strong>Let's connect!</strong> 💬</h2>
+<h2 align="center"><strong>Let's connect! 💬</strong><br/><a href='mailto:hny-codes@protonmail.com'>hny-codes@protonmail.com</a></h2>
