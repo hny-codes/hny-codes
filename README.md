@@ -8,7 +8,7 @@ _📷 Profile picture and art by Yui! - [Website](https://yuikumaa.bigcartel.com
 
 - Front-end development - **React** is my forte
 - Privacy advocate
-- Free time? Internet surfing and finding my next JRPG adventure ⚔
+- Free time? Internet surfing, learning 日本語 (Japanese), and finding my next JRPG adventure ⚔
 
 ### 🕸 **My Websites**
 
