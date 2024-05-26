@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs" alt=""></div>
 
-_📷 Profile picture and art by Yui! - [Website](https://yuikumaa.bigcartel.com/) | [Twitter](https://twitter.com/yuikumaa__)_
+<div align="center"><em>📷 Profile picture and art by Yui! - <a href="https://yuikumaa.bigcartel.com/" target="_blank">Website</a> | <a href="https://twitter.com/yuikumaa" target="_blank">Twitter (X)</a></em></div>
 
 ## 🎓 **About Me**
 
