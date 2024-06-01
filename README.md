@@ -22,6 +22,7 @@ Take a look at my personal sites!
 - Typescript
 - [Cypress](https://www.cypress.io/)
 - Working on [freeCodeCamp's C# course](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+- Learning about [Storyblok!](https://www.storyblok.com/)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight" alt="Chart of most used languages"></div>
 
