@@ -17,10 +17,10 @@ Take a look at my personal sites!
 - [My Portfolio](https://www.hny-codes.com/)
 - [My Blog](https://hny-blogs.vercel.app/)
 
-## 🕹 **Leveling Up On These Skills**
+## 🕹 **What Have I been Leveling Up On!**
 
 - Typescript
-- [Cypress](https://www.cypress.io/)
+- Blog Migration
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight" alt="Chart of most used languages"></div>
 
