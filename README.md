@@ -20,7 +20,7 @@ Take a look at my personal sites!
 ## 🕹 **What Have I been Leveling Up On!**
 
 - Typescript
-- Blog Migration
+- Back on the TryHackMe content!
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hny-codes&layout=donut&langs_count=10&theme=tokyonight" alt="Chart of most used languages"></div>
 
