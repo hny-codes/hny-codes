@@ -6,7 +6,7 @@
 
 ## 🎓 **About Me**
 
-- Front-end development - **React** is my forte
+- Curious tinkerer - I love getting my hands dirty and trying out new things 😁
 - Privacy advocate
 - Free time? Internet surfing, learning 日本語 (Japanese), and finding my next JRPG adventure ⚔
 
