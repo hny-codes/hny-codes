@@ -2,6 +2,8 @@
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,js,html,css,py,react,vite,astro,tailwind,nextjs,discord,github,md&perline=7" alt=""></div>
 
+<div align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/hnycodes.png" alt="TryHackMe"></div>
+
 <div align="center"><em>📷 Profile picture and art by Yui! - <a href="https://yuikumaa.bigcartel.com/" target="_blank">Website</a> | <a href="https://twitter.com/yuikumaa" target="_blank">Twitter (X)</a></em></div>
 
 ## 🎓 **About Me**
